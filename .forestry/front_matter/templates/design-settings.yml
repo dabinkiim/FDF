@@ -1,6 +1,6 @@
 ---
 label: Design Settings
-hide_body: true
+hide_body: false
 fields:
 - name: primary_color
   type: color
