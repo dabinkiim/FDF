@@ -1,43 +1,27 @@
 ---
-title: Sunflower Sutra
+title: '들어가기 '
 date: 2019-07-16T19:17:43.000+00:00
 type: blog
-hero: "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
-author: Allen Ginsberg
+hero: ''
+author: ''
 
 ---
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
+여기 기록되고 전달되고자 하는 하나의 텍스트가 있다. 평범하고 보편적인 방식으로, 타이핑을 통해 작성되었다. 이 텍스트가 다수에게 공유되기 위해서는 대략 두가지 방법이 있다. 누군가 이 텍스트를 업로드하고 그 위치 좌표를 공유하여 누구나 들어와서 스크린을 통해 볼 수 있게 하거나, 마찬가지로 스크린 상에서 책의 출력 데이터를 제작한 뒤 복제본을 대량 인쇄하여 인쇄된 텍스트를 공유해야 한다. 공유되는 텍스트, ‘문서’라는 형식은 익숙한 종이의 이미지를 부여한다. 하지만 이 모든 과정은 스크린 속에서 이루어진다. 인쇄되어 물질로 손에 남는다고 하더라도, 결국 컴퓨터라는 기계를 통해 생성되고 디지털 상으로 이루어진 결과물이다.
 
-Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
+달리 말하면, 현재의 공유 가능한 텍스트는 거의 대부분 스크린 속의 기술을 통해, 그리고 기계에 의해 구성되는 과정 속에 있다. 우리가 읽는 수많은 텍스트들의 모습은 특정 테크놀로지 또는 소프트웨어, 그리고 출력(혹은 디스플레이) 기계에 의해 결정되어 우리 앞에 놓여진다. 그러나 텍스트 아래에 텍스트의 그릇이 존재하며, 그 그릇에 의해, 또 그릇에 따라 텍스트가 존재한다는 명제는 너무 자주 무시되고는 한다. 더 나은 그릇은 없을까? 더 나은 그릇을 만드는 방법은 없을까? 우리는 스크린 안 속 떠다니는 현재의 텍스트의 그릇과, 그릇을 만드는 (출판) 방식에 의심을 갖고, 더 나은 미래를 그려볼 수 있어야 한다.
 
-![](/images/elcarito-CRn-_80z4SE-unsplash.jpg)
+이 글은 이러한 기술과 형식을 자유롭게 할, 새로운 선택지로서의 전자 출판Digital Publishing을 고민하는 글이라는 입장을 취한다. 자신이 사용하는 기술과 형식을 제대로 알고 이해하고 쓸 수 있게 하고, 이전에 생각하지 못했던 선택지를 고민하게 하게 할 것이다. 결과적으로 글은 비평의 시선에서 시작하고 끝난다. 현재의 독점적인 문서 포맷을 벗어난 다양한 문서 형식과 시스템을 탐구하고 또 고안할 것이지만, 가장 큰 목적은 새로운 해결방식을 제안하는 것이 아니라 선택지를 쥐어주는 것이다.
 
-The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
+이 글이 쓰이게 될 과정은 다음과 같다.
 
-Look at the Sunflower, he said, there was a dead gray shadow against the sky, big as a man, sitting dry on top of a pile of ancient sawdust--
+가장 먼저 지금까지의 주 문서 공유 포맷인 PDF를 분석하고 이해한다. 지금의 문서 방식의 보이지 않는 매커니즘을 들춰본다. 본질적인 단점에도 불구하고 현재의 형식이 자리잡은 이유와, 큰 개편 없이 유지되는 까닭은 무엇일까? 문서 포맷이 현재까지 어떤 변화를 거쳐왔는지, 앞으로 무엇이 되거나 되지 않을 수 있는지 살펴본다.
 
-\--I rushed up enchanted--it was my first sunflower, memories of Blake--my visions--Harlem
+그 다음 앞으로의 문서 포맷을 생각해보기 위해서 다른 문서 공유 형식 및 기술을 파악하는 리서치를 진행한다. 앞으로 무엇이 될 수 있을지 살펴보는 과정은 지금까지 글에서 논의된 문서 포맷을 벗어나, 그 밖에서 같은 역할을 수행하고자 했던 다른 문서 방식과 형식들을 살펴보고 시험해보는 것을 통해 진행된다. 현재의 문서 포맷으로는 실현이 불가능하지만, 앞으로의 새로운 문서 형식이 갖출 수 있는 특성과 기능이 있을까? 아니면 이미 그런 것들은 존재했고 논의되어 왔지만 우리가 발견하지 못한 채 놓치고 있었던 것일까? 대중적으로 사용되지 않았던 다른 형식 기술들을 찾고 사용하여 문서를 만들어 보면서, 그러한 문서 포맷이 가지고 있는 장단을 살피고 분석해 상상될 미래의 포맷의 주요 근거로서 작동할 수 있게 한다.
 
-# "the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye"
+리서치를 통해 찾은 문서 형식과 문서 제작 시스템들을 바탕으로, 새로이 발견한 특성(기능)들을 갖고 있는 새로운 문서 포맷을 어떤 문서 제작 시스템을 통해 만들 것인지 기획하는 설계도를 그린다.
 
-and Hells of the Eastern rivers, bridges clanking Joes greasy Sandwiches, dead baby carriages, black treadless tires forgotten and unretreaded, the poem of the riverbank, condoms & pots, steel knives, nothing stainless, only the dank muck and the razor-sharp artifacts passing into the past--
+틈틈히 전자 출판 및 문서 포맷에 대한 비평 텍스트를 작성한다. 또한 진행한 리서치와 그를 바탕으로 한 설계도 또한 기록하여 문서 형태로 작성한다. 문서에 대한 문서인 셈이다. 모든 텍스트는 이후 텍스트의 그릇, 즉 포맷에 담길 ‘공유 가능한 텍스트’로 작동한다.
 
-and the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye--
+설계도를 그리며 찾은 문서 제작 경로 및 시스템을 통해 공유 가능한 텍스트를 공유 가능한 문서 포맷 형태로 구상화한다. 즉 설계도를 따라 문서 만들기를 실행한다.
 
-corolla of bleary spikes pushed down and broken like a battered crown, seeds fallen out of its face, soon-to-be-toothless mouth of sunny air, sunrays obliterated on its hairy head like a dried wire spiderweb,
-
-leaves stuck out like arms out of the stem, gestures from the sawdust root, broke pieces of plaster fallen out of the black twigs, a dead fly in its ear,
-
-Unholy battered old thing you were, my sunflower O my soul, I loved you then!
-
-![](/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg)
-
-The grime was no man's grime but death and human locomotives,
-
-all that dress of dust, that veil of darkened railroad skin, that smog of cheek, that eyelid of black mis'ry, that sooty hand or phallus or protuberance of artificial worse-than-dirt--industrial--modern--all that civilization spotting your crazy golden crown--
-
-and those blear thoughts of death and dusty loveless eyes and ends and withered roots below, in the home-pile of sand and sawdust, rubber dollar bills, skin of machinery, the guts and innards of the weeping coughing car, the empty lonely tincans with their rusty tongues alack, what more could I name, the smoked ashes of some cock cigar, the cunts of wheelbarrows and the milky breasts of cars, wornout asses out of chairs & sphincters of dynamos--all these
-
-entangled in your mummied roots--and you standing before me in the sunset, all your glory in your form!
-
-A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+만든 문서와 문서 포맷의 편집 디자인을 한다. 문서가 물성이 있는 매체를 통해 출력되는 경우 인쇄 및 제본 등을 통해 물체화한다. 아마 당신은 구현될 수 있는 수많은 그릇 중 하나, 직접적으로는 수많은 판형 중 물체화된 하나의 모습으로 이 텍스트를 읽게 될 것이다.
