@@ -22,6 +22,12 @@ fields:
 - type: datetime
   name: date
   label: Date
+- name: image_small
+  type: file
+  config:
+    maxSize: 64
+  label: Image small
+  description: put image-S in the middle
 - type: text
   name: type
   label: type
