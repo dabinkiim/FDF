@@ -3,7 +3,7 @@ title: '들어가기 '
 date: 2022-11-08T19:17:43+00:00
 type: blog
 hero: ''
-author: ''
+author: Dabin Kiim
 image_small: "/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg"
 
 ---
